@@ -606,8 +606,8 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">LDD Phone Store</a> - All rights reserved © 2021 - Designed by
-            <span style="color: #eee; font-weight: bold">group 15th</span></p>
+        <p><a href="index.html">VawnTieens Phone Store</a> - All rights reserved © 2026 - Designed by
+            <span style="color: #eee; font-weight: bold">VawnTieens</span></p>
     </div>`);
 }
 
@@ -710,12 +710,12 @@ function addPlc() {
         <section>
             <ul class="flexContain">
                 <li>Giao hàng hỏa tốc trong 1 giờ</li>
-                <li>Thanh toán linh hoạt: tiền mặt, visa / master, trả góp</li>
-                <li>Trải nghiệm sản phẩm tại nhà</li>
+                <li>Thanh toán linh hoạt: Tiền mặt, Thẻ nội địa, Thẻ quốc tế</li>
+                <li>Trải nghiệm sản phẩm tại cửa hàng</li>
                 <li>Lỗi đổi tại nhà trong 1 ngày</li>
                 <li>Hỗ trợ suốt thời gian sử dụng.
                     <br>Hotline:
-                    <a href="tel:12345678" style="color: #288ad6;">12345678</a>
+                    <a href="tel:078 788 06 63" style="color: #288ad6;">078 788 06 63</a>
                 </li>
             </ul>
         </section>
