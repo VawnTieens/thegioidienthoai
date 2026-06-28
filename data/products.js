@@ -114,23 +114,23 @@ var list_products = [{
     },
     "masp": "Sam1"
 }, {
-    "name": "iPhone 15 Pro Max 256GB",
+    "name": "iPhone 17 Pro Max 256GB",
     "company": "Apple",
-    "img": "img/products/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
-    "price": "31.990.000₫",
+    "img": "img/products/iphone-17-pro-max-cam-1-639174800885056316-750x500.jpg",
+    "price": "36.990.000₫",
     "star": 4,
     "rateCount": 10,
     "promo": {
         "name": "giareonline",
-        "value": "29.590.000₫"
+        "value": "35.900.000₫"
     },
     "detail": {
         "screen": "OLED, 6.7', Super Retina XDR",
-        "os": "iOS 17",
-        "camara": "Chính 48 MP & Phụ 12 MP, 12 MP",
-        "camaraFront": "12 MP",
-        "chip": "Apple A17 Pro 6 nhân",
-        "ram": "8 GB",
+        "os": "iOS 26   ",
+        "camara": "Chính 48 MP & Phụ 48 MP, 48 MP",
+        "camaraFront": "48 MP",
+        "chip": "Apple A19 Pro 6 nhân",
+        "ram": "Hãng không công bố",
         "rom": "256 GB",
         "sim": "1 Nano SIM & 1 eSIM, Hỗ trợ 5G",
         "battery": "4422 mAh, 20 W"
@@ -205,24 +205,24 @@ var list_products = [{
     },
     "masp": "App1"
 }, {
-    "name": "iPhone 15 Pro 128GB",
+    "name": "iPhone 17 Pro 256GB",
     "company": "Apple",
-    "img": "img/products/iphone-15-pro-gold-thumbnew-600x600.jpg",
-    "price": "28.990.000",
+    "img": "img/products/iphone_17_pro_silver_1_4b28435ad7.jpg",
+    "price": "34.990.000",
     "star": 4,
     "rateCount": 10,
     "promo": {
         "name": "giareonline",
-        "value": "24.890.000"
+        "value": "33.990.000"
     },
     "detail": {
         "screen": "OLED6.1, Super Retina XDR",
-        "os": "iOS 17",
+        "os": "iOS 26",
         "camara": "Chính 48 MP & Phụ 12 MP, 12 MP",
         "camaraFront": "12 MP",
-        "cpu": "Apple A17 Pro 6 nhân",
-        "ram": "8 GB",
-        "rom": "128 GB",
+        "cpu": "Apple A19 Pro 6 nhân",
+        "ram": "12 GB",
+        "rom": "256 GB",
         "sim": "1 Nano SIM & 1 eSIMHỗ trợ 5G",
         "battery": "3274 mAh, 20 W"
     },
@@ -461,7 +461,7 @@ var list_products = [{
     "name": "Nokia black future",
     "company": "Nokia",
     "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong-Nokia-1280-dienmay.com-l.jpg",
-    "price": "999.999.000",
+    "price": "1.000",
     "star": 5,
     "rateCount": 9999,
     "promo": {
@@ -1033,24 +1033,24 @@ var list_products = [{
     },
     "masp": "Mot0"
 }, {
-    "name": " iPhone 15 Plus 128GB",
+    "name": "iPhone 17 256GB",
     "company": "Apple",
-    "img": "img/products/iphone-15-plus-xanh-la-128gb-thumb-600x600.jpg",
-    "price": "25.990.000",
+    "img": "img/products/iphone_17_white_1_394c4cd09a.jpg",
+    "price": "24.990.000",
     "star": 4,
     "rateCount": 40,
     "promo": {
         "name": "giareonline",
-        "value": "22.790.000"
+        "value": "23.990.000"
     },
     "detail": {
-        "screen": "OLED6.7, Super Retina XDR",
-        "os": "iOS 17",
+        "screen": "OLED6.3, Super Retina XDR",
+        "os": "iOS 26",
         "camara": "Chính 48 MP & Phụ 12 MP",
         "camaraFront": "12 MP",
-        "cpu": "Apple A16 Bionic",
-        "ram": "6 GB",
-        "rom": "128 GB",
+        "cpu": "Apple A19",
+        "ram": "8 GB",
+        "rom": "256 GB",
         "sim": "1 Nano SIM & 1 eSIM, Hỗ trợ 5G",
         "battery": "4383 mAh, 20 W"
     },
@@ -1059,7 +1059,7 @@ var list_products = [{
     "name": "iPhone 15 128GB",
     "company": "Apple",
     "img": "img/products/iphone-15-hong-thumb-1-600x600.jpg",
-    "price": "22.990.000",
+    "price": "17.990.000",
     "star": 4,
     "rateCount": 49,
     "promo": {
@@ -1079,10 +1079,10 @@ var list_products = [{
     },
     "masp": "App4"
 }, {
-    "name": "iPhone 14 Pro Max 128GB",
+    "name": "iPhone 16 128GB",
     "company": "Apple",
-    "img": "img/products/iphone-14-pro-max-tim-thumb-600x600.jpg",
-    "price": "26.990.000",
+    "img": "img/products/iphone_16_white_9eac5c03e3.jpg",
+    "price": "20.490.000",
     "star": 4,
     "rateCount": 446,
     "promo": {
@@ -1091,11 +1091,11 @@ var list_products = [{
     },
     "detail": {
         "screen": "OLED6.7, Super Retina XDR",
-        "os": "iOS 17",
+        "os": "iOS 18",
         "camara": "Chính 48 MP & Phụ 12 MP, 12 MP",
         "camaraFront": "12 MP",
         "cpu": "Apple A16 Bionic",
-        "ram": "6 GB",
+        "ram": "8 GB",
         "rom": "128 GB",
         "sim": "1 Nano SIM & 1 eSIM, Hỗ trợ 5G",
         "battery": "4323 mAh, 20 W"
